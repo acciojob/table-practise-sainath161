@@ -4,8 +4,8 @@ table {
 
             border: 1px solid black;
         }
-        th, td {
-            border: 3px solid black;
+        th, td, th {
+            border: 2px solid black;
             padding: 8px;
             text-align: left;
         }
